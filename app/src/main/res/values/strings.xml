@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Poker Session Tracker</string>
+    <string name="title_activity_graph">Graph</string>
+    <string name="action_delete_data">Delete Data</string>
+</resources>
